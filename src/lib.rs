@@ -1,4 +1,2 @@
-pub mod addr;
-pub mod client;
+pub mod api;
 pub mod server;
-pub mod posix_fns;
